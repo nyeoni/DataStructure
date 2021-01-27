@@ -7,3 +7,4 @@ env.bak/
 venv.bak/
 pythonenv*
 .idea/
+.idea/workspace.xml
